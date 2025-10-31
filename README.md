@@ -14,7 +14,7 @@ The entire layout follows a light color scheme with hover effects and a professi
 ---
 ## 🚀 **Live Demo**
 
-Check out the live version of the portfolio website here:  
+Check out the live version :  
 [https://single-page-portfolio-website.netlify.app/](https://single-page-portfolio-website.netlify.app/)
 ---
 
@@ -102,6 +102,7 @@ This project was developed as part of the Full Stack Web Development Internship 
 It is recognized as Frontend Project – 1 under the internship training module.
 
 🧑‍💻 Intern Name: Saumik Laha
+
 📧 Email: saumiklaha@gmail.com
 
 📚 Domain: Single Page Portfolio Website (Frontend Project)
